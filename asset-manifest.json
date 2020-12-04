@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Roboblox/static/css/main.1cde2ee1.chunk.css",
+    "main.js": "/React-Roboblox/static/js/main.29ef2ac5.chunk.js",
+    "main.js.map": "/React-Roboblox/static/js/main.29ef2ac5.chunk.js.map",
+    "runtime-main.js": "/React-Roboblox/static/js/runtime-main.0620d7d4.js",
+    "runtime-main.js.map": "/React-Roboblox/static/js/runtime-main.0620d7d4.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/React-Roboblox/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/React-Roboblox/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/React-Roboblox/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/React-Roboblox/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/React-Roboblox/index.html",
+    "static/css/main.1cde2ee1.chunk.css.map": "/React-Roboblox/static/css/main.1cde2ee1.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/React-Roboblox/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0620d7d4.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.1cde2ee1.chunk.css",
+    "static/js/main.29ef2ac5.chunk.js"
+  ]
+}
